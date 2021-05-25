@@ -1,0 +1,30 @@
+.drummachine {
+  background: grey;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid rgb(128, 19, 0);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 0px 0px;
+  grid-template-areas:
+    ". . ."
+    ". . ."
+    ". . .";
+  background: rgb(124, 60, 3);
+  border-color: pink;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid rgb(128, 19, 0);
+}
+
+.padcontainer {
+  background: black;
+  border-color: purple;
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid rgb(128, 19, 0);
+}

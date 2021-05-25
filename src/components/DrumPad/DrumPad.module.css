@@ -1,0 +1,7 @@
+.drum-pad {
+  background-color: #3c376e;
+  padding: 10px;
+  margin: 10px;
+  display: inline-block;
+  border: 3px solid rgb(128, 19, 0);
+}
